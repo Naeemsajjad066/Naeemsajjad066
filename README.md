@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naeem Sajjad</h1>
-<h3 align="center">A passionate developer & Final Year CS student on COMSATS</h3>
+<h3 align="center">A passionate developer & Final Year CS student at COMSATS</h3>
 
 - 🔭 I’m currently working on **RentiFi- A property rental platform**
 
