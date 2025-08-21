@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I've experience on **React/Next Js**
+- 🔭 I've experience on **React Js**
 
 - 🔭 I’m currently working on **MERN Stack Learnings**
 
@@ -21,9 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ezaz-naseer-a71237243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezaz-naseer-a71237243" height="30" width="40" /></a>
-<a href="https://fb.com/ahzaz.naseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahzaz.naseer" height="30" width="40" /></a>
-<a href="https://instagram.com/malik.ahzaz301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malik.ahzaz301" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-naeem-sajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezaz-naseer-a71237243" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
