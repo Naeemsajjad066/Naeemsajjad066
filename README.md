@@ -1,4 +1,4 @@
-![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemsajjad066&show_icons=true&locale=en)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Naeem Sajjad</h1>
 <h3 align="center">A passionate React Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahzaz1&show_icons=true&locale=en&layout=compact" alt="mahzaz1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahzaz1&show_icons=true&locale=en" alt="mahzaz1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naeemsajjad066&show_icons=true&locale=en" alt="mahzaz1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naeemsajjad066&" alt="mahzaz1" /></p>
