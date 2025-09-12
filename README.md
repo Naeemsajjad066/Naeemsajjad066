@@ -8,7 +8,7 @@
 
 - 🔭 I am a **MERN Stack  Developer**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Typescript, React.js, Node.js, Express.js, MongoDb, Tailwind, RESTful APIs**
+- 💬 Ask me about **HTML, CSS, Javascript, Typescript, React.js, GSAP, Node.js, Express.js, LangChain, MongoDb, Tailwind, RESTful APIs**
 
 - 📫 How to reach me **mnaeemsajjad01@gmail.com**
 
