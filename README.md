@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, Typescript, React.js, GSAP, Node.js, Express.js, LangChain, MongoDb, Tailwind, RESTful APIs**
 
-- 📫 How to reach me **mnaeemsajjad01@gmail.com**
+- 📫 How to reach me **naeem.89@protonmail.com**
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhammad-naeem-sajjad/**
 
