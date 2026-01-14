@@ -7,7 +7,7 @@
 
 - 🔭 I am a **MERN Stack  Developer**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Typescript, React.js, GSAP, Node.js, Express.js, LangChain, MongoDb, Tailwind, RESTful APIs**
+- 💬 Ask me about **HTML, CSS, Javascript, React.js, Node.js, Express.js, , MongoDb, Tailwind, RESTful APIs**
 
 - 📫 How to reach me **naeem.89@protonmail.com**
 
@@ -51,6 +51,5 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeemsajjad066&show_icons=true&locale=en&layout=compact" alt="mahzaz1" /></p>
 
 
