@@ -20,21 +20,22 @@
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/muhammad-naeem-sajjad" target="blank">
     <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="30" width="40" />
+         src="https://img.icons8.com/color/48/linkedin.png"
+         height="30" width="30" />
   </a>
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/plqhPI2ssW/" target="blank">
     <img align="center"
-         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"
-         height="30" width="40" />
+         src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"
+         height="30" width="30" />
   </a>
-    <!-- WhatsApp -->
+
+  <!-- WhatsApp -->
   <a href="https://wa.me/923059924066" target="blank">
     <img align="center"
-         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"
-         height="30" width="40" />
+         src="https://img.icons8.com/color/48/whatsapp.png"
+         height="30" width="30" />
   </a>
 </p>
 
