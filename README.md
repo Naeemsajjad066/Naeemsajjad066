@@ -30,6 +30,12 @@
          src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"
          height="30" width="40" />
   </a>
+    <!-- WhatsApp -->
+  <a href="https://wa.me/923059924066" target="blank">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"
+         height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
