@@ -17,33 +17,6 @@
 - 💼 LinkedIn: **https://www.linkedin.com/in/muhammad-naeem-sajjad/**
 - 📱 WhatsApp: **https://wa.me/923059924066**
 
----
-
-## 🤝 Connect with me
-
-<table>
-  <tr>
-    <td>
-      <a href="https://linkedin.com/in/muhammad-naeem-sajjad">
-        <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
-      </a>
-    </td>
-
-    <td>
-      <a href="https://leetcode.com/u/plqhPI2ssW/">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
-      </a>
-    </td>
-
-    <td>
-      <a href="https://wa.me/923059924066">
-        <img src="https://img.icons8.com/color/48/whatsapp.png" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Languages and Tools
 
