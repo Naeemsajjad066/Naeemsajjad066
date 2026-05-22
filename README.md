@@ -1,4 +1,4 @@
-<div align="center">
+`<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" width="100%"/>
 
@@ -122,8 +122,7 @@ const naeem = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=naeemsajjad066&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=naeemsajjad066&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
