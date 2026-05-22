@@ -112,13 +112,14 @@ const naeem = {
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naeemsajjad066&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemsajjad066&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naeemsajjad066&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemsajjad066&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 </div>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Naeemsajjad066&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=naeemsajjad066&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 ---
 
