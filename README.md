@@ -82,32 +82,6 @@ I'm a **Software Engineer** who loves building things that matter — from clean
   </tr>
 </table>
 
----
-
-## 🚀 Current Focus
-
-```ts
-const naeem = {
-  currentlyLearning : ["Next.js 15 App Router", "TypeScript", "PostgreSQL + Prisma"],
-  buildingWith      : ["RAG-based AI Apps", "Full-stack SaaS", "Vector Databases"],
-  stateManagement   : "Zustand",
-  validation        : "Zod",
-  openTo            : ["Full-time roles", "Freelance projects", "Open-source collabs"],
-};
-```
-
----
-
-## 🎯 2026 Goals
-
-| Goal | Status |
-|------|--------|
-| 🏗️ Build & launch production-ready SaaS | 🔄 In Progress |
-| 🤖 Master AI Engineering & RAG pipelines | 🔄 In Progress |
-| 🌐 Contribute to open-source projects | 📋 Planned |
-| 📐 Level up system design & architecture | 📋 Planned |
-
----
 
 ## 📊 GitHub Stats
 
