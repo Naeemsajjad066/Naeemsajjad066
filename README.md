@@ -1,7 +1,5 @@
 `<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" width="100%"/>
-
 # `< Naeem Sajjad />`
 
 **Software Engineer · MERN Stack Developer · AI & RAG Enthusiast**
