@@ -87,9 +87,9 @@ I'm a **Software Engineer** who loves building things that matter — from clean
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naeemsajjad066&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-rose-three-27.vercel.app/api?username=Naeemsajjad066&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naeemsajjad066&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats-rose-three-27.vercel.app/api/top-langs/?username=Naeemsajjad066&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 
 </div>
 
