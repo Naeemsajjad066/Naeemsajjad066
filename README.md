@@ -112,3 +112,7 @@ I'm a **Software Engineer** who loves building things that matter — from clean
 <img src="https://ghchart.rshah.org/409ba5/naeemsajjad066" alt="GitHub Contribution Calendar"/>
 
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naeemsajjad066/naeemsajjad066/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
