@@ -106,18 +106,24 @@ I'm a **Software Engineer** who loves building things that matter — from clean
 </div>
 
 
-## 🤝 Let's Connect
+## 📊 GitHub Statistics
 
 <div align="center">
 
-I'm always open to interesting conversations, collaborations, and new opportunities.
-Whether it's a project idea, a job opportunity, or just a tech chat — let's talk!
+<img height="180em" src="https://github-readme-stats-rose-three-27.vercel.app/api?username=naeemsajjad066&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naeem-sajjad)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<img height="180em" src="https://github-readme-stats-rose-three-27.vercel.app/api/top-langs/?username=naeemsajjad066&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 
 </div>
 
-<br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=naeemsajjad066&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=naeemsajjad066&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
+
+</div>
