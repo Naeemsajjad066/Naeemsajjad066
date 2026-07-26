@@ -26,12 +26,12 @@
 
 I'm a **Software Engineer** who loves building things that matter — from clean, responsive UIs to powerful backend APIs and increasingly, AI-powered systems.
 
-➤ Currently building **full-stack SaaS products** with Next.js + TypeScript  
-➤ Deep-diving into **AI Engineering, RAG Systems & Vector Databases**  
-➤ Core expertise in **MERN Stack** — production-tested, scalable architecture  
-➤ Exploring the intersection of **LLMs, Prompt Engineering & real-world apps**  
-➤ Goal: Ship impactful products and contribute to open source in 2026  
-➤ Ask me about **React, Node.js, API design, or AI integrations**
+■ Currently building **full-stack SaaS products** with Next.js + TypeScript  
+■ Deep-diving into **AI Engineering, RAG Systems & Vector Databases**  
+■ Core expertise in **MERN Stack** — production-tested, scalable architecture  
+■ Exploring the intersection of **LLMs, Prompt Engineering & real-world apps**  
+■ Goal: Ship impactful products and contribute to open source in 2026  
+■ Ask me about **React, Node.js, API design, or AI integrations**
 
 <br clear="right"/>
 
