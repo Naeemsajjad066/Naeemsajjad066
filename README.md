@@ -105,25 +105,10 @@ I'm a **Software Engineer** who loves building things that matter — from clean
 
 </div>
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-rose-three-27.vercel.app/api?username=naeemsajjad066&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats-rose-three-27.vercel.app/api/top-langs/?username=naeemsajjad066&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
-
-</div>
+## 📅 GitHub Contribution Calendar
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=naeemsajjad066&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=naeemsajjad066&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
+<img src="https://ghchart.rshah.org/409ba5/naeemsajjad066" alt="GitHub Contribution Calendar"/>
 
 </div>
