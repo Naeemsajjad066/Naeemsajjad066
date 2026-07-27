@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/muhammad-naeem-sajjad">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:naeem.89@protonmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=naeemsajjad066&style=for-the-badge&color=0e75b6&label=Profile+Views"/>
