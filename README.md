@@ -4,7 +4,7 @@
 
 **Software Engineer · MERN Stack Developer · AI & RAG Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Exploring+AI+%26+RAG+Systems;Turning+ideas+into+production+SaaS;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Exploring+AI+%26+RAG+Systems;Turning+ideas+into+production+SaaS;Open+to+exciting+opportunities)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/muhammad-naeem-sajjad">
